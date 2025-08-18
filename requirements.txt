@@ -1,0 +1,2 @@
+# Nessuna libreria esterna necessaria per questo progetto.
+# Tutte le dipendenze usate sono incluse nella libreria standard di Python.
