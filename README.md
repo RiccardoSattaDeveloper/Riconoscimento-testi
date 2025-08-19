@@ -1,5 +1,3 @@
 • Linguaggio: Python
 
-• Librerie standard: tkinter, functools, os, sys, glob
-
-• Librerie esterne: Nessuna
+• Librerie standard: tkinter, functools, os, sys, glob.
